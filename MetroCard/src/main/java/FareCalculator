@@ -1,0 +1,17 @@
+import calc.FareStrategyFactory;
+import factory.FareStrategy;
+import java.time.LocalDateTime;
+import pojo.Station;
+
+ class FareCalculator1 {
+
+  public double getFare(Station source, Station destination, LocalDateTime localDateTime) {
+    FareStrategy fareStrategy = FareStrategyFactory.getFareStrategy(localDateTime);
+    int distance = source.distance(destination);
+
+    double fare = distance * fareStrategy.getFarePerStation();
+
+    return fare;
+  }
+
+}

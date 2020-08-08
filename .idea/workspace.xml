@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Applications/BAPI/workspace/catalog-microservice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/BAPI/workspace/certona-feed" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/BAPI/workspace/pdp-microservice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/BAPI/workspace/storeservice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/Checkout/order-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/browse-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-inbound" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-jobs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-management-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-microservice" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-presentation-processor" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-processor" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-schema-manager" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/catalog-testsuite" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/marketing-feeds" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/NEO/workspace/neo-authoring" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/gRPC/gRPC/grpc-java/examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/gRPC/gRPC/jcpenney-grpc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/gRPC/grpc-spring-boot-examples/infinite-ping-pong/ping" value="PREVIEW" />
+        <entry key="$USER_HOME$/Applications/test-workspace/flatfile-hack" value="PREVIEW" />
+        <entry key="$USER_HOME$/gRPC/jcpenney-grpc" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

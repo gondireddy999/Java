@@ -1,0 +1,41 @@
+Java8 Features:
+--------------
+1. Lambda Expressions
+2. Functional Interfaces
+3. Streams API
+4. Anonymous Innerclass Vs Lambda Expressions
+
+
+
+4. Anonymous Innerclass Vs Lambda Expressions:
+---------------------------------------------
+
+Thread t = new Thread();
+
+Thread t= new Thread() {
+//Some statements
+}; // Thread having child class with no name => i.e; anonymous inner class
+
+--
+Another ex:
+
+Runnable r = new Runnable() {
+
+//Some statements
+}; // Runnable interface implemented child class with no name => i.e; anonymous inner class
+
+
+----------
+interface A {
+  m1();
+  m2();
+}
+
+--> Can I go for Lambda expression for above class..? No.
+--> Can I go for Anonymous innner class for above class..? Yes.
+
+============
+
+Lambda expression != Anonymous inner class
+
+If an interface with single abstract method then only we can go with Lambda Expressions.
